@@ -1,0 +1,113 @@
+ 
+  ----jGRASP exec: java cscd210lab4.CSCD210Lab4
+ Please enter the beginning meter value: 
+ 111
+ Please enter the ending meter value: 
+ 222222
+ Please enter the customer's code: 
+ r
+ 
+ You have entered r as the customer code.
+ You have entered 111 as the beginning meter value.
+ You have entered 222222 as the ending meter value.
+ You have used 22,211.1 gallons.
+ Your bill is $31.66.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab4.CSCD210Lab4
+ Please enter the beginning meter value: 
+ 999999
+ Please enter the ending meter value: 
+ 1000
+ Please enter the customer's code: 
+ r
+ 
+ You have entered r as the customer code.
+ You have entered 999999 as the beginning meter value.
+ You have entered 1000 as the ending meter value.
+ You have used 99,900,100.1 gallons.
+ Your bill is $29,995.03.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab4.CSCD210Lab4
+ Please enter the beginning meter value: 
+ 0
+ Please enter the ending meter value: 
+ 10000000
+ Please enter the customer's code: 
+ b
+ 
+ You have entered b as the customer code.
+ You have entered 0 as the beginning meter value.
+ You have entered 10000000 as the ending meter value.
+ You have used 1,000,000.0 gallons.
+ Your bill is $1,510.01.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab4.CSCD210Lab4
+ Please enter the beginning meter value: 
+ 999999
+ Please enter the ending meter value: 
+ 100
+ Please enter the customer's code: 
+ b
+ 
+ You have entered b as the customer code.
+ You have entered 999999 as the beginning meter value.
+ You have entered 100 as the ending meter value.
+ You have used 99,900,010.1 gallons.
+ Your bill is $2,499.01.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab4.CSCD210Lab4
+ Please enter the beginning meter value: 
+ 0
+ Please enter the ending meter value: 
+ 1000
+ Please enter the customer's code: 
+ b
+ 
+ You have entered b as the customer code.
+ You have entered 0 as the beginning meter value.
+ You have entered 1000 as the ending meter value.
+ You have used 100.0 gallons.
+ Your bill is $1,500.00.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab4.CSCD210Lab4
+ Please enter the beginning meter value: 
+ 999999998
+ Please enter the ending meter value: 
+ 100
+ Please enter the customer's code: 
+ b
+ 
+ You have entered b as the customer code.
+ You have entered 999999998 as the beginning meter value.
+ You have entered 100 as the ending meter value.
+ You have used 10.2 gallons.
+ Your bill is $1,500.00.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab4.CSCD210Lab4
+ Please enter the beginning meter value: 
+ 100
+ Please enter the ending meter value: 
+ 1000
+ Please enter the customer's code: 
+ j
+ 
+ You have entered j as the customer code.
+ You have entered 100 as the beginning meter value.
+ You have entered 1000 as the ending meter value.
+ You have used 90.0 gallons.
+ Your entered an illegitimate customer code. Enter either an 'r', 'R', 'b', or 'B'.
+ 
+  ----jGRASP: operation complete.
+ 
